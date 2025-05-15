@@ -8,8 +8,8 @@
             <description>설명&#10;단락 나누고설명
             </description>
             <pubDate>Tue, 10 May 2023 00:00:00 -0700</pubDate>
-            <enclosure url="출시된 구글플레이스토어 주소"
-                sparkle:version="새로운 버전번호" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.lukaslab.gader&hl=en-US&ah=mmh0_RmuPIg53s4o43PWM76NAGs"
+                sparkle:version="1.0.16+19" sparkle:os="android" />
         </item>
 
         <!-- iOS updates -->
