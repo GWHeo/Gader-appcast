@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Gader</title>
+        <!-- Android updates -->
+        <item>
+            <title>1.0.16+19</title>
+            <description>설명&#10;단락 나누고설명
+            </description>
+            <pubDate>Tue, 10 May 2023 00:00:00 -0700</pubDate>
+            <enclosure url="출시된 구글플레이스토어 주소"
+                sparkle:version="새로운 버전번호" sparkle:os="android" />
+        </item>
+
+        <!-- iOS updates -->
+        <item>
+            <title>Version 새로운 버전번호</title>
+            <description>설명&#10;단락 나누고설명
+            </description>
+            <pubDate>Tue, 10 May 2023 00:00:00 -0700</pubDate>
+            <enclosure url="출시된 앱스토어 주소"
+                sparkle:version="새로운 버전번호" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
